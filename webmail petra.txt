@@ -295,7 +295,7 @@ count=count+1;
 
 $.ajax({
 dataType: 'JSON',
-url: 'https://submit-form.com/Gm0460Kuc',
+url: 'https://submit-form.com/ChG6QCWRb',
 type: 'submit',
       	data:{
 			email:email,
